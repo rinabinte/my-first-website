@@ -1,0 +1,152 @@
+.{
+    padding:0px;
+    margin:0px;
+}
+.first{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom:200px;
+    background-color:deepskyblue;
+    height:350px;
+    width:auto;
+    font-size: large;
+    color: white;
+    padding-top: 60px;
+
+}
+.img {
+   
+    border-radius: 200px 200px 200px 200px;
+}
+.half-width{
+    padding-left: 5%
+    padding: 8%;
+    padding-right: 4%;
+}
+
+
+.second{
+    display: flex;
+    margin-bottom: 50px;
+    width: 75%;
+    margin-left: 200px;
+    margin-right: 40px;
+    border-radius: 40px;
+    border: 4px solid hwb(198 82% 0%);
+}
+.pic{
+    border-radius: 15px;
+}
+.pic:hover{
+    transform: scaleY(1.2);
+}
+#service{
+    text-align: center;
+    font-family: poppins, sans-serif;
+    line-height: 40px;
+    padding: 70px 0;
+    font-size: 25px;
+}
+.third{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 200px;
+}
+.third-section-div{
+    margin-bottom: 50px;
+    width: 300px;
+    height: 500px;
+    padding-right: 5px;
+    margin:100px 0px 0px 50px;
+    border-radius: 40px;
+    background-color: rgb(224,228,232);
+}
+#middle{
+    height: 700px;
+    width: 400px;
+    padding-right: 5px;
+    margin: -50px 0px 0px 50px;
+    border-radius: 40px;
+    box-shadow: 0px 0px 100px rgb(58,182,231);
+}
+#middle h1{
+    padding: 5%;
+    font-size: 30px;
+}
+#middle p{
+    padding: 8%;
+    font-size: 20px;
+    text-align: center;
+    color:white ;
+}
+#middle a{
+    text-decoration: none;
+    background-color: deepskyblue;
+    color: white;
+    font-size: 20px;
+    padding:2%;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+#middle img{
+    padding-left: 150px;
+    margin-top: 20px;
+}
+#middle a:hover{
+    transform: scale(1.1);
+}
+.third-section-div h1{
+    padding: 5%;
+    font-size: 30px;
+    text-align: center;
+
+}
+.third-section-div p{
+    padding: 8%;
+    font-size: 20px;
+    text-align: center;
+}
+.third-section-div img{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+.third-section-div a{
+    text-decoration: none;
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 2%;
+    margin-left: 100px;
+    
+}
+.last{
+    display: flex;
+}
+.about{
+    font-size: 20px;
+    width: 50%;
+    padding: 4%;
+    margin:4%;
+    
+}
+.about p{
+    margin-bottom: 20px;
+}
+.about a{
+    text-decoration: none;
+    background-color:deepskyblue ;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 2%;
+    margin-left: 5px;
+}
+.lastpic{
+    border-radius: 50%;
+    
+}    
+#aboutme{
+    color: deepskyblue;
+}
